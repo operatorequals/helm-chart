@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  net-expose:
+  - apiVersion: v2
+    appVersion: ssh-0.1.0
+    created: "2020-11-29T14:35:40.812926+02:00"
+    description: Expose your Kubernetes resources to the world!
+    digest: bd60f1cb10cd00195b4cf1d574ad6dc3062fbfdbe31a8bc38f4e4eb5310ebc70
+    name: net-expose
+    type: application
+    urls:
+    - https://operatorequals.github.io/helm-chart/net-expose-0.3.0.tgz
+    version: 0.3.0
+generated: "2020-11-29T14:35:40.805371+02:00"
