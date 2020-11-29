@@ -1,3 +1,9 @@
 [submodule "helm-chart-sources/k8s-net-expose"]
 	path = helm-chart-sources/k8s-net-expose
 	url = https://github.com/operatorequals/k8s-net-expose
+[submodule "helm-chart-sources/elastalert-server"]
+	path = helm-chart-sources/elastalert-server
+	url = https://github.com/operatorequals/elastalert-helm
+[submodule "helm-chart-sources/praeco"]
+	path = helm-chart-sources/praeco
+	url = https://github.com/operatorequals/praeco-helm
