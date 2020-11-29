@@ -1,0 +1,3 @@
+[submodule "helm-chart-sources/k8s-net-expose"]
+	path = helm-chart-sources/k8s-net-expose
+	url = https://github.com/operatorequals/k8s-net-expose
