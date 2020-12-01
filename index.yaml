@@ -3,7 +3,7 @@ entries:
   elastalert-server:
   - apiVersion: v1
     appVersion: 0.2.4
-    created: "2020-11-29T14:52:41.29786+02:00"
+    created: "2020-12-01T11:50:05.361634+02:00"
     description: elastalert-server Helm chart for Kubernetes
     digest: 7c937ed9b7a89efadf4df54876631c6b6353df0c2ebd8c108bb54558eaeddc36
     name: elastalert-server
@@ -13,18 +13,18 @@ entries:
   net-expose:
   - apiVersion: v2
     appVersion: ssh-0.1.0
-    created: "2020-11-29T14:52:41.299123+02:00"
+    created: "2020-12-01T11:50:05.362097+02:00"
     description: Expose your Kubernetes resources to the world!
-    digest: bd60f1cb10cd00195b4cf1d574ad6dc3062fbfdbe31a8bc38f4e4eb5310ebc70
+    digest: 0b2c5e513d02a3e17e385b2e21314ae847a207694d113b53bfb0b83a045b1d66
     name: net-expose
     type: application
     urls:
-    - https://operatorequals.github.io/helm-chart/net-expose-0.3.0.tgz
-    version: 0.3.0
+    - https://operatorequals.github.io/helm-chart/net-expose-0.4.0.tgz
+    version: 0.4.0
   praeco:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: "2020-11-29T14:52:41.302069+02:00"
+    created: "2020-12-01T11:50:05.365068+02:00"
     dependencies:
     - name: elastalert-server
       repository: https://operatorequals.github.io/helm-chart
@@ -35,4 +35,4 @@ entries:
     urls:
     - https://operatorequals.github.io/helm-chart/praeco-0.1.2.tgz
     version: 0.1.2
-generated: "2020-11-29T14:52:41.293452+02:00"
+generated: "2020-12-01T11:50:05.358087+02:00"
